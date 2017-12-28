@@ -1,0 +1,265 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+
+
+
+
+h1,h2,h3,h4,h5{Font-Family: 'Arvo', Serif;Font-Size: 30px; font-weight: 600;}
+p{font-family: 'Source Sans Pro', sans-serif;}
+
+/*h1,h2,h3,h4,h5 {font-family: 'Francois One', sans-serif;}*/
+
+/*p{font-family: 'Didact Gothic', sans-serif;}*/
+
+.ulList{font-family: 'Source Sans Pro', sans-serif;Font-Size: 30px;  }
+
+.navbar-default {
+    background-color: #f8f8f8;
+    border-color: #e7e7e700;
+}
+
+
+.headerH2{font-size:5em; font-weight: 400;margin-top:200px;color: white;}
+.superHero{color: orange; font-weight: 600;}
+.myBtn{border-radius:none;background: orange;padding: 10px 20px 10px 20px;margin-top: 60px; border: solid white 1px; font-weight: 400;}
+.bespokeNav{background: orange; margin-bottom:0;}
+.jumbotronBg{/* Rectangle Copy: */
+	background: black;}
+
+.flex-container{display: flex; flex-wrap: wrap;}
+.flex-container>div{flex-flow: column;}
+.relJumbotron{position: relative;}
+.abPosition{position: absolute;z-index: 20;}
+.abImage{bottom:130px; }
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;	
+}
+
+.navbar-default {
+    background-color: orange;
+    border-color: none;
+}
+
+.jumboBg {background-image:url(../images/gray2.png); background-position: right center; background-repeat: no-repeat; /*height:1000px; *//*background-attachment: fixed;*//* Create the parallax scrolling effect */}
+
+
+#webDesign{
+
+font-size: 2.5em;
+color: #F5A623;
+line-height: 53px;}
+
+
+
+.padding4Content{padding: 150px 0 150px 0;}
+.pContent{color:floralwhite; font-size: 1.3em; line-height: 1.7em; 
+
+font-size: 18px;
+color: #E5D2D2;
+letter-spacing: 0;
+line-height: 28px; }
+
+.pContent2{color:floralwhite; font-size: 1.3em; line-height: 1.7em; 
+font-size: 18px;
+color: black;
+letter-spacing: 0;
+line-height: 28px;}
+
+
+.header4content {
+	font-size: 1.3em;
+	color: #FFFFFF;
+	line-height: 1.4em;
+	font-weight: 100;
+}
+
+.instructorH4 {
+	font-size: 14px;
+	color: #68645E;
+	line-height: 10px;
+}
+
+.header4content2{
+font-size: 2em;
+line-height: 1.2em; font-weight: 600;}
+
+
+
+.border4maincontent{ border-left: solid 1px white ; /*padding-left: 90px;*/ margin-top: 40px;}
+
+.formGroupPadding{margin-top: 12.5px;}
+
+
+.headlineWebDesign{
+/*font-family: Futura-Bold;*/
+font-size: 2.5em;
+color: orange;
+line-height: 1em;
+font-weight: 600;
+
+}
+
+.headlineWebDesignGallery{font-size: 1.5em;
+color: cornsilk;font-weight: 600; background:orange;text-align: center; padding-bottom: 20px; }
+
+
+
+.aboutMainContent{font-size: 2.5em;
+color: orange;
+line-height: 1em;
+font-weight: 600;}
+
+.headlineWebDesign2{
+font-size: 2.5em;
+color: black;
+}
+
+.background4contents{background: black; padding: 10em 2em 10em 2em;border-top: thin solid 1px white; }
+.background4contents2{background: orange; padding: 10em 2em 10em 2em;}
+
+
+.WebDesign{
+
+font-size: 2em;
+color: #FFFFFF;
+line-height: 1.2em;
+padding: 8em 0 8em 0;
+
+}
+.spanOrange{color: orange;}
+
+.homepageGradient{background-image:url(../images/victorHero.png); background-position: cover right; background-repeat: no-repeat; background-attachment: fixed; }
+
+/*.introHeader{
+/*font-family: Futura-Medium;*/	
+/*font-size: 3.7em;
+color: aliceblue; line-height: 1em;
+margin-top: 5em; font-weight: 100;}*/
+
+.introHeader {
+	/* font-family: Futura-Medium; */
+	font-size: 3em;
+	color: aliceblue;
+	line-height: 1.2em;
+	margin-top: 7em;
+	
+	
+}
+
+
+.introHeaderAboutMe {
+	/* font-family: Futura-Medium; */
+	font-size: 3em;
+	color: #9B9B9B;
+	line-height: 1em;
+
+}
+
+.headlineWebDesignCode{font-size: 1.3em;
+color: orange;
+line-height: 1.4em;}
+
+
+
+
+
+
+.borderAndPaddingForParagraphTop { padding-top: 4em; border-top:2px orange solid  thick; ,line-height:1em; }
+
+.footerStylin{ background: #242424; padding: 10em 2em 10em 2em;border-top: thin solid 1px white; margin:0 auto;}
+.contactFormContent{background: #382222; padding: 6em 2em 4em 2em;border-top: thin solid 1px white;}
+
+
+.ulStyle{
+
+font-size: 18px;
+color: orange;
+line-height: 26px;}
+
+.orangeBackground4text{background: orange; padding: 2em; padding-left: 5em; border-left: 1px  solid  white; }
+.blckBackground4text{background: black; padding: 2em; padding-left: 5em; border-left: 1px  solid   white; }
+.flashmanFixed{ /*position: fixed;*/right:300px; top:100px;}
+.formBackground{margin-bottom: 1em; border-radius: 0; background: #f0f8ff52;;}
+
+.btn-default {
+    color: #332d2d;
+    background-color: #fffcf5;
+    border-color: #ccc;
+    border-radius: 0;
+}
+
+
+.navbar-default .navbar-nav > li > a {
+	color: #fffcfc;
+}
+
+.footerInnerMargin{margin-bottom: 8em;}
+
+.headlineWebDesignAboutPage {
+	/* font-family: Futura-Bold; */
+	font-size: 1.7em;
+	color: orange;
+	line-height: 1.3em;
+	font-weight: 600;
+}
+
+.containerRule{
+	background: #f3f3f3;
+}
+
+
+
+
+.btn-primary-custom {
+    color: #fff;
+    background-color: orange;
+    border-color: orange;
+}
+
+
+.galleryWeb{font-size: 1.3em;
+	color: white;
+	line-height: 1em;
+	font-weight: 600;}
+
+
+
+.contactFormRule {
+	background: #f3f3f3;
+}
+
+.tdStyle{background: orange; padding: 40px; padding-top:0px;}
+.tdTable{padding:40px;}
+
+.tableColor{background: #d0d0d0;
+    padding: 40px; font-size: 22px; padding-left: 60px;}
+
+.hstyle{font-size:20px; color:coral;}
+
+
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 3px solid white;
+    background: gainsboro;
+    padding: 10px;
+    /*border: 2px #a6a2ad solid;*/
+    
+}
+
+
+.orangeTableau{background: orange;
+    color: black;}
+    
+    .rowBorders{border: 2px solid orange 3em;}
+    .orangeBtn1{background: orange;}
+    .blogThots{border-bottom: thick solid orange; padding-bottom: 20px;} 
+    .formStylin{margin-top: 1.1em; }
+    .textstylin{border-radius: 0;} 
+    .formMarginX{margin-top: 1.1em;}
